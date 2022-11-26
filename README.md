@@ -1,6 +1,6 @@
 ### Hi! I'm Carlos Ferreira
 
-- 🌱 I’m currently learning Python
+- I’m currently working as a Data Solution Analyst at Radix Engineering & Software
 - 😄 Pronouns: he/his
 
 <header>
